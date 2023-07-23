@@ -10,4 +10,5 @@ Alternatively, you can go to https://colab.research.google.com/ and click on Git
 As proposed and supported by the class, here are the offline recordings for the classes:
 
 Day 1: https://youtu.be/B2gqrW5M5uI
+
 Day 2: https://youtu.be/hBKV5OF-VFE
