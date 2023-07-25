@@ -12,3 +12,5 @@ As proposed and supported by the class, here are the offline recordings for the 
 Day 1: https://youtu.be/B2gqrW5M5uI
 
 Day 2: https://youtu.be/hBKV5OF-VFE
+
+Day 3: https://youtu.be/9g2p2LG3FfE
