@@ -14,3 +14,5 @@ Day 1: https://youtu.be/B2gqrW5M5uI
 Day 2: https://youtu.be/hBKV5OF-VFE
 
 Day 3: https://youtu.be/9g2p2LG3FfE
+
+Bootstrap Primer (watch before Day 4): https://youtu.be/m8SNv57zBJk
