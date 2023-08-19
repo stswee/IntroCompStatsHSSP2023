@@ -20,3 +20,5 @@ Bootstrap Primer (watch before Day 4): https://youtu.be/m8SNv57zBJk
 Day 4: https://youtu.be/EiFY1P1_1IY
 
 Day 5: https://youtu.be/_HXFmwkaMFA
+
+Day 6: https://youtu.be/2ielEMlVvtU
